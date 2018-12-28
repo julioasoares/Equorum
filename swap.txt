@@ -1,0 +1,10 @@
+git clone https://githubrepository url   #clones into local directory
+
+git status       # repository status (files missing, changed or new)
+
+git add filename # adds a file
+git add -A       # adds all modified files
+
+git commit -m "your comments"
+
+git push         # upload 
